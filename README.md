@@ -8,6 +8,9 @@ Key features of this project include:
 - Customizable for additional gesture recognition beyond ASL.
 
 ## Installation
+## DEMO
+[![Watch the video]([https://img.youtube.com/vi/MJCSjXepaAM/0.jpg](https://github.com/ShimaaAbdalraheem/sign-language-detector-python-master/assets/148641477/1213da31-279f-4827-8632-095771975a52))]
+
 
 ### Clone the repository
 
@@ -61,7 +64,7 @@ pip install -r requirements.txt
 ```python
 labels_dict = {0: 'peace', 1: 'yes', 2: 'thumbs up', 3: 'Hi', 4: 'No', 5: 'thank you', 6: 'sorry', 7: 'Close',8: 'Blind',9:'Phone',
                10:'Horse',11:'Hearing',12:'Soon',13:'Self',14:'Fireman',15:'Talk'
-               ```}
+              } ```
 <br> 
 -run the file 'inference_classifier.py' to try the model
 -------------------------------------------------------------------------------------------------

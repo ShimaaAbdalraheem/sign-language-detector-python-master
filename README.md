@@ -9,7 +9,7 @@ Key features of this project include:
 
 ## Installation
 ## DEMO
-[![Watch the video]([[https://img.youtube.com/vi/MJCSjXepaAM/0.jpg](https://github.com/ShimaaAbdalraheem/sign-language-detector-python-master/assets/148641477/1213da31-279f-4827-8632-095771975a52](https://github.com/ShimaaAbdalraheem/sign-language-detector-python-master/issues/1#issue-2233747335)))]
+[![Watch the video](https://github.com/ShimaaAbdalraheem/sign-language-detector-python-master/issues/1#issue-2233747335)]
 
 
 ### Clone the repository
